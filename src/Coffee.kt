@@ -1,0 +1,1 @@
+class Coffee(val type: String, val sugarAmount: Int)
